@@ -5,7 +5,7 @@ workdir=$(pwd)
 
 
 cd x86_64
-updaterepo.sh
+sh updaterepo.sh
 cd ..
 
 # Below command will backup everything inside the project folder
